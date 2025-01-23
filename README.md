@@ -1,4 +1,4 @@
-<label id="top"></label>x
+<label id="top"></label>
 
 <div align="center">
     <img src="./repo_images/mek.jpg" width="200" />
