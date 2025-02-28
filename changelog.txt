@@ -1,0 +1,10 @@
+02/28/2025
+
+  - updated spacing
+  - moved title to div with image
+  - created sub-title with hyper link to project
+  - updated connection from table of contens > Q & C to a working state
+  - updated about me text
+  - changed ## Current Applications and ## Released Applications to collapsibles instead of solid walls as list could potentially grow exponentially long.
+  - moved anchor tags for "Top" inside of <details></details>
+  - updated Q & C text
