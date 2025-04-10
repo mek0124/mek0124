@@ -30,12 +30,12 @@ Welcome to my GitHub! This repository serves as a central hub for all my current
 > All projects can be found by clicking the "Repositories" tab at the top of the screen
 > for this repo.
 
-- [Bash Scripts](https://github.com/mek0124/BashScripts)
-- [Challenges](https://github.com/mek0124/Challenges)
-- [Desktop Apps](https://github.com/mek0124/DesktopApps)
-- [Servers](https://github.com/mek0124/Servers)
-- [Web Apps](https://github.com/mek0124/WebApps)
-- [PyPi Packages](https://github.com/mek0124/PyPiPackages)
+- <a href="https://github.com/mek0124/BashScripts" target="_blank">Bash Scripts</a>
+- <a href="https://github.com/mek0124/Challenges" target="_blank">Challenges</a>
+- <a href="https://github.com/mek0124/DesktopApps" target="_blank">Desktop Apps</a>
+- <a href="https://github.com/mek0124/Servers" target="_blank">Servers</a>
+- <a href="https://github.com/mek0124/WebApps" target="_blank">Web Apps</a>
+- <a href="https://github.com/mek0124/PyPiPackages" target="_blank">PyPi Packages</a>
 
 ---
 
