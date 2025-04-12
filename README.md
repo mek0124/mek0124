@@ -23,19 +23,8 @@ Welcome to my GitHub! This repository serves as a central hub for all my current
 - [A Little About Me](#a-little-about-me)
 - [About My Journey](#about-my-journey)
 - [What Am I Currently Doing?](#what-am-i-currently-doing)
+- [Projects](#projects)
 - [Issues](#issues)
-
-> Note: The purpose of the menu below is to assist in user navigation amonst this repository. 
-> The links below will take you to the next menu set for that category of projects.
-> All projects can be found by clicking the "Repositories" tab at the top of the screen
-> for this repo.
-
-- <a href="https://github.com/mek0124/BashScripts" target="_blank">Bash Scripts</a>
-- <a href="https://github.com/mek0124/Challenges" target="_blank">Challenges</a>
-- <a href="https://github.com/mek0124/DesktopApps" target="_blank">Desktop Apps</a>
-- <a href="https://github.com/mek0124/Servers" target="_blank">Servers</a>
-- <a href="https://github.com/mek0124/WebApps" target="_blank">Web Apps</a>
-- <a href="https://github.com/mek0124/PyPiPackages" target="_blank">PyPi Packages</a>
 
 ---
 
@@ -63,6 +52,43 @@ I started my journey back in 2018-2019 with my best friend (well call him Tom). 
 ---
 #### What Am I Currently Doing?
 
-Currently, I am focusing more towards the UI/UX and automation side of things. I am actively developing my own background task for maintaining a list of known programming languages that updates once a month. This tool will be able to run independently or be imported into your Python project. Once a public release has been made of this pypi package, I will update the [PyPi Packages](https://github.com/mek0124/PyPiPackages) repository read me file so keep an eye out!
+Currently, I am focusing more towards the UI/UX and automation side of things. I am actively developing my own background task for maintaining a list of all known programming languages that updates once a month. This tool will be able to run independently or be imported into your Python project. 
+
+<b><u>What's The Purpose?</u></b>
+
+The purpose is to allow myself the chance to become more rounded with webscraping in Python using [requests](https://docs.python-requests.org/en/latest/index.html) and [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) in addition to Python's [datetime](https://docs.python.org/3/library/datetime.html) library.
+
+<details>
+<summary>NOTE</summary>
+
+> At this time, there is no anticipated release date as I am taking my time in learning these concepts. Please be patient. Thanks!
+</details>
 
 <a href="#top">Top</a>
+
+---
+### Projects
+
+<details>
+<summary>NOTE</summary>
+
+> At this time, outside of bash and automation scripts, I am focusing my attention towards UI/UX. All repositories below are for the client-sides of my applications.
+</details>
+
+- Bash Scripts
+  - TBA
+- Automation Scripts
+  - AutoUpdate-Languages
+    - A small background script that maintains an updated list of all known programming languages once a month.
+- Desktop Apps
+- Mobile Apps
+- Web Apps
+
+<a href="#top">Top</a>
+
+---
+### Issues
+
+<a href="#top">Top</a>
+
+---
