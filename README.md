@@ -75,8 +75,8 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
   - TBA
 - Desktop Apps
   - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
-    - Release Date: 05/10/2025 @ 00:03
-    - Latest Release: [click here]()
+    - Date: 05/10/2025 @ 00:03
+    - Releases: [click here](https://github.com/mek0124/PalindromeChecker/releases)
     - Developed With: [KastienDevOp215](https://github.com/KastienDevOp)
 - Mobile Apps
   - TBA
