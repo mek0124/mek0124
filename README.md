@@ -69,25 +69,27 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
 ---
 ### Projects
 
-<details>
-<summary>NOTE</summary>
-
-> At this time, outside of bash and automation scripts, I am focusing my attention towards UI/UX. All repositories below are for the client-sides of my applications.
-</details>
-
 - Bash Scripts
   - TBA
 - Automation Scripts
-  - AutoUpdate-Languages
-    - A small background script that maintains an updated list of all known programming languages once a month.
+  - TBA
 - Desktop Apps
+  - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
+    - Release Date: 05/10/2025 @ 00:03
+    - Latest Release: [click here]()
+    - Developed With: [KastienDevOp215](https://github.com/KastienDevOp)
 - Mobile Apps
+  - TBA
 - Web Apps
+  - [Hub Math](https://github.com/mek0124/HubMath)
+    - Developed With: [KastienDevOp215](https://github.com/KastienDevOp)
 
 <a href="#top">Top</a>
 
 ---
 ### Issues
+
+If at anytime you come into any issues, please create a new issue on the corresponding repo's issues page.
 
 <a href="#top">Top</a>
 
