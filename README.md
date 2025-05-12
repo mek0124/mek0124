@@ -72,17 +72,19 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
 - Bash Scripts
   - TBA
 - Automation Scripts
-  - TBA
+  - [Auto Update Languages](https://github.com/mek0124/autoupdate_languages2)
+  - Date: 05/12/2025
+  - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
 - Desktop Apps
   - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
     - Date: 05/10/2025 @ 00:03
     - Releases: [click here](https://github.com/mek0124/PalindromeChecker/releases)
-    - Developed With: [KastienDevOp215](https://github.com/KastienDevOp)
+    - Team: [KastienDevOp215](https://github.com/KastienDevOp)
 - Mobile Apps
   - TBA
 - Web Apps
   - [Hub Math](https://github.com/mek0124/HubMath)
-    - Developed With: [KastienDevOp215](https://github.com/KastienDevOp)
+    - Team: [KastienDevOp215](https://github.com/KastienDevOp)
 
 <a href="#top">Top</a>
 
