@@ -52,7 +52,10 @@ I started my journey back in 2018-2019 with my best friend (well call him Tom). 
 ---
 #### What Am I Currently Doing?
 
-Currently, I am focusing more towards the UI/UX and automation side of things. I am actively developing my own background task for maintaining a list of all known programming languages that updates once a month. This tool will be able to run independently or be imported into your Python project. 
+Currently, I am focusing more towards the UI/UX and automation side of things. I have:
+  - developed my own background task for maintaining a list of all known programming languages that updates every 90 days. This tool will be able to run independently or be imported into your Python project.
+  - developed a functioning GUI for a Palindrome Checker
+  - 
 
 <b><u>What's The Purpose?</u></b>
 
@@ -72,19 +75,35 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
 - Bash Scripts
   - TBA
 - Automation Scripts
-  - [Auto Update Languages](https://github.com/mek0124/autoupdate_languages2)
-  - Date: 05/12/2025
-  - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
+  - [Auto Update Languages 2](https://github.com/mek0124/autoupdate_languages2)
+    - Date: 05/12/2025
+    - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
 - Desktop Apps
   - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
-    - Date: 05/10/2025 @ 00:03
+    - Date: 05/10/2025
     - Releases: [click here](https://github.com/mek0124/PalindromeChecker/releases)
-    - Team: [KastienDevOp215](https://github.com/KastienDevOp)
+    - Team: 
+      - frontend:
+        - [mek0124](https://github.com/mek0124)
+      - backend:
+        - [KastienDevOp215](https://github.com/KastienDevOp)
 - Mobile Apps
   - TBA
 - Web Apps
   - [Hub Math](https://github.com/mek0124/HubMath)
-    - Team: [KastienDevOp215](https://github.com/KastienDevOp)
+    - Team:
+      - frontend:
+        - [mek0124](https://github.com/mek0124)
+      - backend:
+        - [KastienDevOp215](https://github.com/KastienDevOp)
+  - [Track Master Pro](https://github.com/mek0124/TrackMasterPro)
+    - Date: 04/2025
+    - Team:
+      - frontend:
+        - [mek0124](https://github.com/mek0124)
+        - [KastienDevOp215](https://github.com/KastienDevOp)
+      - backend:
+        - [KastienDevOp215](https://github.com/KastienDevOp)
 
 <a href="#top">Top</a>
 
