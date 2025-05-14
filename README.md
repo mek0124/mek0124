@@ -72,14 +72,20 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
 ---
 ### Projects
 
-- Bash Scripts
-  - TBA
 - Automation Scripts
   - [Auto Update Languages 2](https://github.com/mek0124/autoupdate_languages2)
+    - An automation script that uses BeautifulSoup4 and requests to update a text file with all known programming languages once every 90 days.
     - Date: 05/12/2025
     - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
+- [Bash Scripts](https://github.com/mek0124/bash-scripts)
+  - a repo with different bash scripts written for linux
+- CLI Apps
+  - [GitCloneCLI](https://github.com/mek0124/GitCloneCLI)
+    - Date: 05/13/2025
+    - A CLI tool to assist in cloning multiple repo's at once.
 - Desktop Apps
   - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
+    - A simple PySide6 GUI Application for testing words to be palindromes or not.
     - Date: 05/10/2025
     - Releases: [click here](https://github.com/mek0124/PalindromeChecker/releases)
     - Team: 
@@ -91,12 +97,15 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
   - TBA
 - Web Apps
   - [Hub Math](https://github.com/mek0124/HubMath)
+    - A ReactJS Web App with different game methods for math. Developed for kids from pre-k to 12th grade.
+    - Date: 04/12/2025
     - Team:
       - frontend:
         - [mek0124](https://github.com/mek0124)
       - backend:
         - [KastienDevOp215](https://github.com/KastienDevOp)
   - [Track Master Pro](https://github.com/mek0124/TrackMasterPro)
+    - A production-ready task management application with a React frontend and FastAPI backend.
     - Date: 04/2025
     - Team:
       - frontend:
