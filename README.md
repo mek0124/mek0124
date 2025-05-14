@@ -55,7 +55,7 @@ I started my journey back in 2018-2019 with my best friend (well call him Tom). 
 Currently, I am focusing more towards the UI/UX and automation side of things. I have:
   - developed my own background task for maintaining a list of all known programming languages that updates every 90 days. This tool will be able to run independently or be imported into your Python project.
   - developed a functioning GUI for a Palindrome Checker
-  - 
+  - And more! See my complete list of works below
 
 <b><u>What's The Purpose?</u></b>
 
