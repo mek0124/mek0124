@@ -2,18 +2,9 @@
 
 <div align="center">
   <img src="./repo_images/mek.jpg" width="200" />
-  <h1>Mek's GitHub Repository</h1>
-  <h3>
-    Co-Owner of 
-    <i>
-      <a href="https://github.com/theHub12">
-        The Hub
-      </a>
-    </i>
-  </h3>
-</div>
 
-Welcome to my GitHub! This repository serves as a central hub for all my current and released applications, as well as a glimpse into my journey as a developer. Thanks for stopping by!
+  <h1>Mek's GitHub Repository</h1>
+</div>
 
 ---
 
@@ -30,10 +21,12 @@ Welcome to my GitHub! This repository serves as a central hub for all my current
 
 ### Introduction
 
-Hi! I'm Mek, and Welcome to My Repo! Here you will find various types of projects that I am either actively developing or actively maintaining.
+Welcome to my GitHub! This repository serves as a central hub for all my current and released applications, as well as a glimpse into my journey as a developer. Thanks for stopping by!
 
-#### A Little About Me
+<a href="#top">Top</a>
+
 ---
+#### A Little About Me
 
 I am currently a full-time online student at the University of Phoenix studying for my Bachelor's in Computer Science focusing in Software Development and Cyber Security. As of today, I have:
 
@@ -42,12 +35,15 @@ I am currently a full-time online student at the University of Phoenix studying 
   - 3+ years in [Markdown](https://www.markdownguide.org/basic-syntax/)
   - < 1 year in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   - < 1 year in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
-  - Actively learning [Java](https://www.java.com/en/) in current classes
+
+<a href="#top">Top</a>
 
 ---
 #### About My Journey
 
 I started my journey back in 2018-2019 with my best friend (well call him Tom). I originally wanted to learn Java as we were both avid Minecraft players and I wanted to help in developing mods. After my first or second go-round with attempting to build a calculator, I moreso gave up. About a year later, I was hanging out with Tom and I was watching him play around with machine learning by having a car go around a track and teach itself to drive around said track. This re-peaked my interest in development and thus we conversed about a language and decided on Python. Python is my mother language and I enjoy using it very much. It's very easy to understand. I digress. After spending a few hours going over some basics, I decided I was smart enough to start building a [Discord Bot using Disnake.py](https://docs.disnake.dev/en/stable/index.html). I was very wrong and it took months for me to grasp that concept. However, now I am able to do quite a lot.
+
+<a href="#top">Top</a>
 
 ---
 #### What Am I Currently Doing?
@@ -59,13 +55,7 @@ Currently, I am focusing more towards the UI/UX and automation side of things. I
 
 <b><u>What's The Purpose?</u></b>
 
-The purpose is to allow myself the chance to become more rounded with webscraping in Python using [requests](https://docs.python-requests.org/en/latest/index.html) and [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/) in addition to Python's [datetime](https://docs.python.org/3/library/datetime.html) library.
-
-<details>
-<summary>NOTE</summary>
-
-> At this time, there is no anticipated release date as I am taking my time in learning these concepts. Please be patient. Thanks!
-</details>
+Although I have experience in a few languages, scripting or other, I am always learning. Practicing new concepts, learning new ideas, etc. This repository is the foot copy of my journey, showcasing what I've learned and what I'm most proud of.
 
 <a href="#top">Top</a>
 
@@ -77,12 +67,10 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
     - An automation script that uses BeautifulSoup4 and requests to update a text file with all known programming languages once every 90 days.
     - Date: 05/12/2025
     - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
-- [Bash Scripts](https://github.com/mek0124/bash-scripts)
-  - a repo with different bash scripts written for linux
 - CLI Apps
-  - [GitCloneCLI](https://github.com/mek0124/GitCloneCLI)
-    - Date: 05/13/2025
-    - A CLI tool to assist in cloning multiple repo's at once.
+  - [ToDo](https://github.com/mek0124/Todo)
+    - Date: 08/12/2025
+    - A CLI tool to assist in tracking your tasks
 - Desktop Apps
   - [Palindrome Checker](https://github.com/mek0124/PalindromeChecker)
     - A simple PySide6 GUI Application for testing words to be palindromes or not.
@@ -96,23 +84,7 @@ The purpose is to allow myself the chance to become more rounded with webscrapin
 - Mobile Apps
   - TBA
 - Web Apps
-  - [Hub Math](https://github.com/mek0124/HubMath)
-    - A ReactJS Web App with different game methods for math. Developed for kids from pre-k to 12th grade.
-    - Date: 04/12/2025
-    - Team:
-      - frontend:
-        - [mek0124](https://github.com/mek0124)
-      - backend:
-        - [KastienDevOp215](https://github.com/KastienDevOp)
-  - [Track Master Pro](https://github.com/mek0124/TrackMasterPro)
-    - A production-ready task management application with a React frontend and FastAPI backend.
-    - Date: 04/2025
-    - Team:
-      - frontend:
-        - [mek0124](https://github.com/mek0124)
-        - [KastienDevOp215](https://github.com/KastienDevOp)
-      - backend:
-        - [KastienDevOp215](https://github.com/KastienDevOp)
+  - TBA
 
 <a href="#top">Top</a>
 
