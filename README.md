@@ -28,11 +28,11 @@ Welcome to my GitHub! This repository serves as a central hub for all my current
 
 I am currently a full-time online student at the University of Phoenix studying for my Bachelor's in Computer Science focusing in Software Development and Cyber Security. As of today, I have:
 
-  - 6+ years in [Python](https://python.org)
-  - 3+ years in [JavaScript](https://nodejs.org)
+  - 7+ years in [Python](https://python.org)
+  - 4+ years in [JavaScript](https://nodejs.org)
   - 3+ years in [Markdown](https://www.markdownguide.org/basic-syntax/)
+  - 1+ years in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
   - < 1 year in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-  - < 1 year in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
 
 ---
 #### About My Journey - [<a href="#top">Top</a>]
@@ -62,8 +62,14 @@ Although I have experience in a few languages, scripting or other, I am always l
     - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
 - CLI Apps
   - TBA
+- Console Apps
+  - [Hangman - Console](https://github.com/mek0124/hangman-console)
+    - a simple hangman game that plays right in command prompt
+    - > currently in beta pre-release
 - Desktop Apps
-  - TBA
+  - [Address Book](https://github.com/mek0124/address-book)
+    - a simple PySide6 desktop application for managing your contacts
+    - > currently in beta pre-release
 - Mobile Apps
   - TBA
 - Web Apps
