@@ -1,9 +1,11 @@
 <label id="top"></label>
 
 <div align="center">
-  <img src="./repo_images/mek.jpg" width="150" />
+  <img src="./images/mek.jpg" width="150" />
+  <img src="./images/original.png" width="150" />
 
   <h1>Mek's GitHub Repository</h1>
+  <h3>Creator & Maintainer of Onyx</h3>
 </div>
 
 ---
@@ -19,14 +21,17 @@
 
 ---
 
-### Introduction - [<a href="#top">Top</a>]
+### Introduction
 
-Welcome to my GitHub! This repository serves as a central hub for all my current and released applications, as well as a glimpse into my journey as a developer. Thanks for stopping by!
+Welcome to my GitHub! This repository serves as a central hub for all my current/released applications, portfolio applications and a glimpse into my journey as a developer. Thanks for stopping by!
+
+[<a href="#top">Top</a>]
 
 ---
-#### A Little About Me - [<a href="#top">Top</a>]
 
-I am currently a full-time online student at the University of Phoenix studying for my Bachelor's in Computer Science focusing in Software Development and Cyber Security. As of today, I have:
+#### A Little About Me
+
+I currently study UI/UX development in my freetime. Client-side has always been my *leaned-on* favorite thing to do. I have studied other languages and can work in bash scripts along with python automation and task loop events. As of today, I have:
 
   - 7+ years in [Python](https://python.org)
   - 4+ years in [JavaScript](https://nodejs.org)
@@ -34,50 +39,79 @@ I am currently a full-time online student at the University of Phoenix studying 
   - 1+ years in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
   - < 1 year in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
----
-#### About My Journey - [<a href="#top">Top</a>]
-
-I started my journey back in 2018-2019 with my best friend (well call him Tom). I originally wanted to learn Java as we were both avid Minecraft players and I wanted to help in developing mods. After my first or second go-round with attempting to build a calculator, I moreso gave up. About a year later, I was hanging out with Tom and I was watching him play around with machine learning by having a car go around a track and teach itself to drive around said track. This re-peaked my interest in development and thus we conversed about a language and decided on Python. Python is my mother language and I enjoy using it very much. It's very easy to understand. I digress. After spending a few hours going over some basics, I decided I was smart enough to start building a [Discord Bot using Disnake.py](https://docs.disnake.dev/en/stable/index.html). I was very wrong and it took months for me to grasp that concept. However, now I am able to do quite a lot.
+[<a href="#top">Top</a>]
 
 ---
-#### What Am I Currently Doing? - [<a href="#top">Top</a>]
 
-Currently, I am focusing more towards the UI/UX and automation side of things. I have:
-  - developed my own background task for maintaining a list of all known programming languages that updates every 90 days. This tool will be able to run independently or be imported into your Python project. 
-    - > NOTE This tool has been archived. Please see the repo's README.md
-  - developed a functioning GUI for a Palindrome Checker
-  - And more! See my complete list of works below
+#### About My Journey
+
+I started my journey back in 2016-2017 with my best friend. I originally wanted to learn Java as we were both avid Minecraft players and I wanted to help in developing mods. After my first or second go-round with attempting to build a calculator, I moreso gave up. About a year later, we were hanging out and I was watching my friend play around with machine learning by having a car go around a track and teach itself to drive around said track. This re-peaked my interest in development and thus we conversed about a language and decided on Python. Python is my mother language and I enjoy using it very much. It's very easy to understand and after spending a few hours going over some basics, I decided I was smart enough to start building a [Discord Bot using Disnake.py](https://docs.disnake.dev/en/stable/index.html). I was very wrong and it took months for me to grasp that concept. However, now I am able to do quite a lot.
+
+[<a href="#top">Top</a>]
+
+---
+
+#### What Am I Currently Doing?
+
+I have recently shifted my focus back into a Python lifestyle. In the coming months, I'll be converting most of my applications here on my repo to a python based language and framework. I have chosen to start my proficiencies in:
+
+- [Click](https://click.palletsprojects.com/en/stable/) is *"a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box."*
+- [Rich](https://rich.readthedocs.io/en/stable/) is *"a Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code."*
+- [Textual](https://textual.textualize.io/tutorial/) is *"is a Rapid Application Development framework for Python, built by Textualize.io to build sophisticated user interfaces with a simple Python API. Run your apps in the terminal or a web browser!"*
+- [PySide6](https://doc.qt.io/qtforpython-6/gettingstarted.html#getting-started) is a framework that *"provides Python bindings for the Qt application framework, enabling you to develop full-featured, cross-platform GUI applications with a modern user interface."*
+- [Flask](https://flask.palletsprojects.com/en/stable/) is *"a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications."*
+
+Between the list above of selected frameworks to point my focus towards, I have elected to begin with three: Click, Textual, and PySide6. I have previous experience working with PySide6 so I've decided to start building my projects out in the following manner
+
+This layout will use a ToDo application for the example
+
+```
+todo/
+| - cli/ -> the click application
+| - core/ -> all logic layer interactions with the applications' data and ui layers
+| - config/ -> handles loading in application settings and file structure requirements for run-time
+| - console/ -> the textual application
+| - desktop/ -> the pyside6 application
+| - mobile/ -> the expo go application
+| - web/ -> the web app using react
+
+> NOTE: the mobile and web versions are built using the expo go and tauri/reactjs frameworks. These are JavaScript frameworks and are better to use in these environments
+```
 
 <b><u>What's The Purpose?</u></b>
 
-Although I have experience in a few languages, scripting or other, I am always learning. Practicing new concepts, learning new ideas, etc. This repository is the foot copy of my journey, showcasing what I've learned and what I'm most proud of.
+Although I have experience in a few languages, scripting or other, I am always learning. Practicing new concepts, learning new ideas, etc. This repository serves as the path of my journey, showcasing what I've learned and what I'm most proud of.
+
+[<a href="#top">Top</a>]
 
 ---
-### Projects - [<a href="#top">Top</a>]
 
-- Automation Scripts
-  - [Auto Update Languages 2](https://github.com/mek0124/autoupdate_languages2) - CURRENTLY ARCHIVED
-    - An automation script that uses BeautifulSoup4 and requests to update a text file with all known programming languages once every 90 days.
-    - Date: 05/12/2025
-    - Releases: [click here](https://github.com/mek0124/autoupdate_languages2/releases)
-- CLI Apps
+### Projects
+- Automation
   - TBA
-- Console Apps
-  - [Hangman - Console](https://github.com/mek0124/hangman-console)
-    - a simple hangman game that plays right in command prompt
-    - > currently in beta pre-release
 - Desktop Apps
-  - [Address Book](https://github.com/mek0124/address-book)
-    - a simple PySide6 desktop application for managing your contacts
-    - > currently in beta pre-release
+  - TBA
+- Games
+  - TBA
 - Mobile Apps
+  - TBA
+- Scripts
   - TBA
 - Web Apps
   - TBA
 
+[<a href="#top">Top</a>]
+
 ---
-### Issues - [<a href="#top">Top</a>]
+
+### Issues
 
 If at anytime you come into any issues, please create a new issue on the corresponding repo's issues page.
 
+[<a href="#top">Top</a>]
+
 ---
+
+- [Task Manager](https://github.com/mek0124/task-manager)
+  - Description: `A light weight task tracking application built using Tauri and React`
+  - Version: `1.0.0. - Public Beta Pre-Release`
