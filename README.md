@@ -55,11 +55,11 @@ I started my journey back in 2016-2017 with my best friend. I originally wanted 
 
 I have recently shifted my focus back into a Python lifestyle. In the coming months, I'll be converting most of my applications here on my repo to a python based language and framework. I have chosen to start my proficiencies in:
 
-- [Click](https://click.palletsprojects.com/en/stable/) is *"a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box."*
-- [Rich](https://rich.readthedocs.io/en/stable/) is *"a Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code."*
-- [Textual](https://textual.textualize.io/tutorial/) is *"is a Rapid Application Development framework for Python, built by Textualize.io to build sophisticated user interfaces with a simple Python API. Run your apps in the terminal or a web browser!"*
-- [PySide6](https://doc.qt.io/qtforpython-6/gettingstarted.html#getting-started) is a framework that *"provides Python bindings for the Qt application framework, enabling you to develop full-featured, cross-platform GUI applications with a modern user interface."*
-- [Flask](https://flask.palletsprojects.com/en/stable/) is *"a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications."*
+- [Click](https://click.palletsprojects.com/en/stable/) - *"a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box."*
+- [Rich](https://rich.readthedocs.io/en/stable/) - *"a Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code."*
+- [Textual](https://textual.textualize.io/tutorial/) - *"is a Rapid Application Development framework for Python, built by Textualize.io to build sophisticated user interfaces with a simple Python API. Run your apps in the terminal or a web browser!"*
+- [PySide6](https://doc.qt.io/qtforpython-6/gettingstarted.html#getting-started) - a framework that *"provides Python bindings for the Qt application framework, enabling you to develop full-featured, cross-platform GUI applications with a modern user interface."*
+- [Flask](https://flask.palletsprojects.com/en/stable/) - *"a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications."*
 
 Between the list above of selected frameworks to point my focus towards, I have elected to begin with three: Click, Textual, and PySide6. I have previous experience working with PySide6 so I've decided to start building my projects out in the following manner
 
