@@ -93,9 +93,11 @@ Although I have experience in a few languages, scripting or other, I am always l
 - Automation
   - TBA
 - Desktop Apps
-  - TBA
+  - Task Manager - https://github.com/mek0124/task-manager
+    - A Textual console application for efficient task trackig implementation
 - Games
-  - Number Guess
+  - Number Guess - https://github.com/mek0124/number-guess
+    - A PySide6 desktop application for guessing a number 1-100
 - Mobile Apps
   - TBA
 - Scripts
