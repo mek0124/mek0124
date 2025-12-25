@@ -95,6 +95,8 @@ Although I have experience in a few languages, scripting or other, I am always l
 - Desktop Apps
   - Task Manager - https://github.com/mek0124/task-manager
     - A Textual console application for efficient task trackig implementation
+  - Mek's Book Review - https://github.com/mek0124/meks-book-review
+    - A PySide6 self-hosted FOSS application for reviewing books you've read
 - Games
   - Number Guess - https://github.com/mek0124/number-guess
     - A PySide6 desktop application for guessing a number 1-100
@@ -128,9 +130,3 @@ Although I have experience in a few languages, scripting or other, I am always l
 If at anytime you come into any issues, please create a new issue on the corresponding repo's issues page.
 
 [<a href="#top">Top</a>]
-
----
-
-- [Task Manager](https://github.com/mek0124/task-manager)
-  - Description: `A light weight task tracking application built using Tauri and React`
-  - Version: `1.0.0. - Public Beta Pre-Release`
