@@ -63,32 +63,6 @@ I have recently shifted my focus back into a Python lifestyle. In the coming mon
 
 - [Tauri + ReactJS](https://tauri.app/) is *"A framework for building lightweight, secure, and cross-platform desktop applications. It combines a Rust core for system-level operations with a web frontend (like ReactJS) rendered by the operating system's native webview, resulting in significantly smaller app sizes compared to similar tools."*
 
-Between the list above of selected frameworks to point my focus towards, I have elected to begin with three: Click, Textual, and PySide6. I have chosen to build my projects out in the following manner for ease of access and keeping one codebase for each version of the project itself.
-
-> NOTE: Although I am aware that Tauri can handle producing Desktop, Mobile, and Web application, I have elected to remain as python based as possible
-
-```
-myApp/
-| - data
-|   - application storage
-| - cli
-|   - Click application
-| - config
-|   - application configurations
-| - core
-|   - logic layer
-| - desktop
-|   - PySide6 application
-| - mobile
-|   - Expo Go application
-| - tui
-|   - Textual application
-| - web
-|   - Tauri + ReactJS
-```
-
-> NOTE: the mobile and web versions are built using the expo go and tauri/reactjs frameworks. These are JavaScript frameworks and are better to use in these environments
-
 <b><u>What's The Purpose?</u></b>
 
 Although I have experience in a few languages, scripting or other, I am always learning. Practicing new concepts, learning new ideas, etc. This repository serves as the path of my journey, showcasing what I've learned and what I'm most proud of.
@@ -110,10 +84,6 @@ Although I have experience in a few languages, scripting or other, I am always l
 
 <h2 id="how-to-install--run">How To Install & Run</h2>
 
-> Note: NodeJS and Python are required for all projects.
-
-> Note: All projects are managed using npm and pip combined. Npm handles project setup and installation of dependencies as an executor. Npm installs its own dependencies and then tells Python to install its dependencies
-
 1. Clone the repository
 ```bash
 git clone https://github.com/mek0124/repo_name_here`
@@ -124,13 +94,18 @@ git clone https://github.com/mek0124/repo_name_here`
 ```bash
 cd repo_name_here
 npm install
+# or
+pip install
+# if on linux
+uv pip install
 ```
 
 3. Run the application
 ```bash
-npm run application_type_here
-
-Example: npm run desktop
+# python projects
+python3 main.py # entry file for all python applications, lives in root directory of project
+# node projects
+pnpm tauri dev
 ```
 
 ---
