@@ -17,6 +17,7 @@
 - [About My Journey](#about-my-journey)
 - [What Am I Currently Doing?](#what-am-i-currently-doing)
 - [Projects](#projects)
+- [Portfolio Projects](#portfolio-projects)
 - [Issues](#issues)
 
 ---
@@ -90,16 +91,14 @@ Although I have experience in a few languages, scripting or other, I am always l
 
 > NOTE: At this time, I am still attempting to understand packaging applications down into appropriate executables for my apps. All apps are FOSS and will need to be ran open-source on your system. Please see [How To Install & Run](#how-to-install--run)
 
+- CLI
+  - TBA
 - Automation
   - TBA
 - Desktop Apps
-  - Momentum - https://github.com/mek0124/momentum
-    - A Tauri + ReactJS Typescript application for efficient task trackig implementation
-  - Mek's Book Review - https://github.com/mek0124/meks-book-review
-    - A PySide6 self-hosted FOSS application for reviewing books you've read
+  - TBA
 - Games
-  - Number Guess - https://github.com/mek0124/number-guess
-    - A PySide6 desktop application for guessing a number 1-100
+  - TBA
 - Mobile Apps
   - TBA
 - Scripts
@@ -108,6 +107,27 @@ Although I have experience in a few languages, scripting or other, I am always l
   - TBA
 
 [<a href="#top">Top</a>]
+
+---
+
+### Portfolio Projects
+
+- CLI
+  - TBA
+- Automation
+  - TBA
+- Desktop Apps
+  - TBA
+- Games
+  - Number Guess - https://github.com/mek0124/number-guess
+    - A PySide6 desktop application for guessing a number 1-100
+- Mobile Apps
+  - TBA
+- Scripts
+  - TBA
+- Web Apps
+  - [Momentum](https://momentum-kappa-seven.vercel.app/)
+    - A simple Tauri + ReactJS application for efficient task tracking implementation
 
 ---
 
@@ -131,3 +151,8 @@ If at anytime you come into any issues, please create a new issue on the corresp
 
 [<a href="#top">Top</a>]
 
+---
+
+- [Task Manager](https://github.com/mek0124/task-manager)
+  - Description: `A light weight task tracking application built using Tauri and React`
+  - Version: `1.0.0. - Public Beta Pre-Release`
