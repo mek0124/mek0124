@@ -73,6 +73,9 @@ Although I have experience in a few languages, scripting or other, I am always l
 
 > NOTE: At this time, I am still attempting to understand packaging applications down into appropriate executables for my apps. All apps are FOSS and will need to be ran open-source on your system. Please see [How To Install & Run](#how-to-install--run)
 
+- [Thought Box CLI](https://github.com/mek0124/thoughtbox-cli)
+  - A simple Click cli tool for note taking
+
 ---
 
 <h2 id="portfolio-projects">Portfolio Projects</h2>
