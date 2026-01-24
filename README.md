@@ -16,8 +16,7 @@ Table of Contents
 - [What Am I Currently Doing?](#what-am-i-currently-doing)
 - [Projects](#projects)
 - [Portfolio Projects](#portfolio-projects)
-- [How To Install & Run](#how-to-install--run)
-- [Issues](#issues)
+- [Collaboration](#collaboration)
 
 ---
 
@@ -31,10 +30,10 @@ Welcome to my GitHub! This repository serves as a central hub for all my current
 
 I currently study UI/UX development in my freetime. Client-side has always been my *leaned-on* favorite thing to do. I have studied other languages and can work in bash scripts along with python automation and task loop events. As of today, I have:
 
-  - 7+ years in [Python](https://python.org)
-  - 4+ years in [JavaScript](https://nodejs.org)
-  - 3+ years in [Markdown](https://www.markdownguide.org/basic-syntax/)
-  - 1+ years in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
+  - 8+ years in [Python](https://python.org)
+  - 6+ years in [JavaScript](https://nodejs.org)
+  - 4+ years in [Markdown](https://www.markdownguide.org/basic-syntax/)
+  - 2+ years in [Bash](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)
   - < 1 year in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ---
@@ -71,50 +70,35 @@ Although I have experience in a few languages, scripting or other, I am always l
 
 <h1 id="projects">Projects</h1>
 
-> NOTE: At this time, I am still attempting to understand packaging applications down into appropriate executables for my apps. All apps are FOSS and will need to be ran open-source on your system. Please see [How To Install & Run](#how-to-install--run)
+At this time, all projects are undergoing a re-write. I will be following one of the bottom two structures
 
-- [Thought Box CLI](https://github.com/mek0124/thoughtbox-cli)
-  - A simple Click cli tool for note taking
+Cross-Platform Apps
 
+```tree
+|
+| - cli/ => Click python application
+| - core/ => data & logic layer
+| - desktop/ => PySide6 application
+| - mobile/ => Expo Go application
+| - webapp/ => Tauri + React JS application
+| - tui/ => Textual application
+```
+
+Single-Framework Builds
+
+```tree
+|
+| - core/ => data & logic layer
+| - app/ => one of PySide6, Click, Textual, Expo Go, or Tauri & React JS application
+```
 ---
 
 <h2 id="portfolio-projects">Portfolio Projects</h2>
 
-- [Momentum](https://momentum-kappa-seven.vercel.app/)
-  - A simple Tauri + ReactJS application for efficient task tracking implementation
+- TBD => see [Projects](#projects)
 
 ---
 
-<h2 id="how-to-install--run">How To Install & Run</h2>
+<h2 id="collaboration">Collaboration</h2>
 
-1. Clone the repository
-```bash
-git clone https://github.com/mek0124/repo_name_here`
-```
-
-2. cd into the project, and install dependencies
-
-```bash
-cd repo_name_here
-npm install
-# or
-pip install
-# if on linux
-uv pip install
-```
-
-3. Run the application
-```bash
-# python projects
-python3 main.py # entry file for all python applications, lives in root directory of project
-# node projects
-pnpm tauri dev
-```
-
----
-
-### Issues
-
-If at anytime you come into any issues, please create a new issue on the corresponding repo's issues page.
-
----
+Want to collaborate, need a script or an application? Send me an [email](mek0124@proton.me) and let's work out some details!
